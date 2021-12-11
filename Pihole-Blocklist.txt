@@ -1,3 +1,5 @@
+#Ads
+
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 extmaps-api.yandex.net
@@ -5,4 +7,11 @@
 0.0.0.0 https://d.reddit.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 affiliationjs.s3.amazonaws.com
+
+#porno
+
 0.0.0.0 https://toticos.com
+0.0.0.0 https://xleche.com
+0.0.0.0 https://xpaja.com
+0.0.0.0 https://pornoamateurlatino.net
+0.0.0.0 https://cinepornogratis.com
