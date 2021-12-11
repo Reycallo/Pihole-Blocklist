@@ -2,3 +2,6 @@
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 adsdk.yandex.ru
+0.0.0.0 d.reddit.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
